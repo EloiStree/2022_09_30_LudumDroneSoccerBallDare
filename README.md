@@ -16,3 +16,20 @@ https://www.fai.org/drone-sports-soccer
 
 
 Video: https://www.youtube.com/watch?v=gh-I9qe4-0c
+
+
+![image](https://user-images.githubusercontent.com/20149493/193133888-28fa809d-20dd-431d-8f4f-24988ab4c10f.png)
+
+
+Rule for small zone:
+https://www.forbes.com/sites/davidhambling/2021/07/30/drone-soccer-is-more-than-just-an-exciting-new-e-sport/
+10 feet by 20 and 10-feet high
+3.048 x 6.096 x 3.048
+
+40cm or  20 sphere drone
+
+Buy kits:
+https://www.dronesoccer.us/shop
+
+https://www.dronesoccer.us/rules-play
+![image](https://user-images.githubusercontent.com/20149493/193137554-889ccf5a-c4f9-4811-bb72-4cc2d7b67727.png)
