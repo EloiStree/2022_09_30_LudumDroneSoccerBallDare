@@ -33,3 +33,18 @@ https://www.dronesoccer.us/shop
 
 https://www.dronesoccer.us/rules-play
 ![image](https://user-images.githubusercontent.com/20149493/193137554-889ccf5a-c4f9-4811-bb72-4cc2d7b67727.png)
+
+
+Rules: https://www.fai.org/sites/default/files/documents/minutes_annex_7j_-_f9a_drone_soccer_rules.pdf
+![image](https://user-images.githubusercontent.com/20149493/193154360-8b136095-fab3-4788-919a-5b4f321c57a5.png)
+![image](https://user-images.githubusercontent.com/20149493/193154386-a72e6388-f9ec-425d-94ee-d1de2faeaedf.png)
+
+
+
+--------------
+
+Game found:
+- https://itch.io/games/tag-drone
+  - https://risenfield.itch.io/quad-it
+  - https://fpv-freerider.itch.io/fpv-freerider-recharged
+- https://sidequestvr.com/search/apps/drone?filter=%7B%7D&sortOn=query_rank&descending=true&limit=36&skip=0
