@@ -1,0 +1,136 @@
+{
+    "name": "RCDroneInput",
+    "maps": [
+        {
+            "name": "DroneInput",
+            "id": "3d57e489-9263-4cd4-ad41-f3222e696efa",
+            "actions": [
+                {
+                    "name": "YawLeftRightHorizontal",
+                    "type": "Value",
+                    "id": "61f0da92-afa3-4d5d-a7ef-a04e9e5bdcd0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "ThrottleDowTop",
+                    "type": "Value",
+                    "id": "d47f2177-44c6-4844-8022-4173431e36d5",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "TiltBackFront",
+                    "type": "Value",
+                    "id": "b8ad15fb-0c16-4eae-8f16-a6bf370a350d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RollLeftRight",
+                    "type": "Value",
+                    "id": "56306e12-39d6-435a-878b-41ea73e352f3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "IsArmed",
+                    "type": "Button",
+                    "id": "4c894249-1d80-41b6-a4e7-f6c3fc3566c7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7b23e452-c492-44be-a1ea-cc44fd7fc542",
+                    "path": "<XInputController>/leftStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YawLeftRightHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4e178dac-5215-4f84-b16c-2f1992e68d46",
+                    "path": "<XInputController>/leftTrigger",
+                    "interactions": "",
+                    "processors": "Invert",
+                    "groups": "",
+                    "action": "YawLeftRightHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4a138e22-eac4-41ee-bb08-23341b7dc3c6",
+                    "path": "<XInputController>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YawLeftRightHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "66066f3f-9dd1-4bfa-9aea-b38ac479a828",
+                    "path": "<XInputController>/leftStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ThrottleDowTop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e6781cf9-cf72-4149-ae8e-3adf2c0cae3f",
+                    "path": "<XInputController>/rightStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TiltBackFront",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9bae8018-0f28-4c09-856e-729df080ae20",
+                    "path": "<XInputController>/rightStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RollLeftRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "de474de4-0271-470c-b24f-e34c2cb6b8ec",
+                    "path": "<XInputController>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "IsArmed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,21 @@
+[2022/10/02 20:45:01] ERROR: [1] Editor (192.168.1.206:55404): An item with the same key has already been added. Key: 1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ProcessPlayerPacket (TNet.Buffer buffer, TNet.TcpPlayer player, System.Boolean reliable) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ThreadFunction () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+[2022/10/02 20:47:44] ERROR: [1] Editor (192.168.1.206:55427): An item with the same key has already been added. Key: 1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ProcessPlayerPacket (TNet.Buffer buffer, TNet.TcpPlayer player, System.Boolean reliable) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ThreadFunction () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+[2022/10/03 09:13:23] ERROR: [1] Editor (192.168.1.206:58273): An item with the same key has already been added. Key: 1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ProcessPlayerPacket (TNet.Buffer buffer, TNet.TcpPlayer player, System.Boolean reliable) [0x00000] in <00000000000000000000000000000000>:0 
+  at TNet.GameServer.ThreadFunction () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
